@@ -1,0 +1,4 @@
+Homepage: /
+About: /about
+Contact: /contact
+Posts: /posts
